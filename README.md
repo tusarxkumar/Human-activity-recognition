@@ -6,6 +6,8 @@
 **Research paper:** <a href="https://github.com/user-attachments/files/20643193/Human.Activity.Recognition.pdf" style="text-decoration: none;">Research Paper</a>
 
 ---
+[![View on Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-blue?logo=kaggle)](https://www.kaggle.com/sylvianclee/human-activity-recognition-cnn-lstm)
+---
 
 ## 📌 Overview
 
